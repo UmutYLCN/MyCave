@@ -1,8 +1,10 @@
 # 🦇 MyCave
 
-**English** | [Türkçe](README.tr.md)
-
 My personal engineering and academic operating system — a unified workspace architecture connecting my studies, notes, and product development across all devices.
+
+<p align="center">
+  <img src="assets/mycave-infographic.svg" alt="MyCave Architecture Infographic" width="100%">
+</p>
 
 ## 🎓 Campus (Active)
 
@@ -20,3 +22,9 @@ Product & software development pipeline for building and shipping personal proje
 ## 🚀 Career (Planned)
 
 Future pipeline for CV/resume versioning, internship & job tracking, and interview preparation.
+
+---
+
+<p align="center">
+  <strong>English</strong> | <a href="README.tr.md">Türkçe</a>
+</p>

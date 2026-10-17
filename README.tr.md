@@ -1,8 +1,10 @@
 # 🦇 MyCave
 
-[English](README.md) | **Türkçe**
-
 Tüm cihazlarım arasında derslerimi, notlarımı ve ürün geliştirme süreçlerimi birbirine bağlayan kişisel mühendislik ve akademik çalışma mimarim.
+
+<p align="center">
+  <img src="assets/mycave-infographic.tr.svg" alt="MyCave Mimari İnfografiği" width="100%">
+</p>
 
 ## 🎓 Campus (Aktif)
 
@@ -20,3 +22,9 @@ Kişisel yazılım projelerini ve ürünleri geliştirmek ve yayınlamak için k
 ## 🚀 Career (Planlanan)
 
 CV/özgeçmiş versiyonlama, staj ve iş başvurusu takibi ile mülakat hazırlık süreçleri için gelecekte kurulacak pipeline.
+
+---
+
+<p align="center">
+  <a href="README.md">English</a> | <strong>Türkçe</strong>
+</p>
