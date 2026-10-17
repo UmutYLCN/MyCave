@@ -25,6 +25,18 @@
 
 ---
 
+## 🗺️ Ana Mimari Planı
+
+<p align="center">
+  <img src="assets/mycave-diorama.jpeg" alt="My Cave 3D Ana Mimari Planı" width="100%">
+</p>
+
+<p align="center">
+  <strong>CAMPUS (Aktif)</strong> &bull; <strong>GARAGE (Yakında)</strong> &bull; <strong>HEADHUNTER (Yakında)</strong>
+</p>
+
+---
+
 <p align="center">
   <a href="README.md">English</a> | <strong>Türkçe</strong>
 </p>

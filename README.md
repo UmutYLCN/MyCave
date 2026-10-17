@@ -25,6 +25,18 @@ An end-to-end automated academic workflow built for Computer Engineering studies
 
 ---
 
+## 🗺️ Master Architecture
+
+<p align="center">
+  <img src="assets/mycave-diorama.jpeg" alt="My Cave 3D Master Architecture Diorama" width="100%">
+</p>
+
+<p align="center">
+  <strong>CAMPUS (Active)</strong> &bull; <strong>GARAGE (Coming Soon)</strong> &bull; <strong>HEADHUNTER (Coming Soon)</strong>
+</p>
+
+---
+
 <p align="center">
   <strong>English</strong> | <a href="README.tr.md">Türkçe</a>
 </p>
