@@ -12,7 +12,11 @@
 
 ## 🎓 Campus
 
-An end-to-end automated academic pipeline built for Computer Engineering studies across **MacBook, iPad (Apple Pencil), Windows, and Android**:
+An end-to-end automated academic workflow built for Computer Engineering studies across **MacBook, iPad (Apple Pencil), Windows, and Android**:
+
+<p align="center">
+  <img src="assets/campus-pipeline.jpeg" alt="Campus Pipeline Architecture Infographic" width="100%">
+</p>
 
 - **`University/`** — Course slides, handouts, and assignments automatically mirrored from Blackboard via **[Blackboard Sync](https://github.com/UmutYLCN/blackboard-sync)** onto **Google Drive (5 TB Offline Mirror)**.
 - **`Notes/`** — Structured **Obsidian** knowledge vault powered by AI note templates, custom CSS cards, formula sheets, and interactive inline SVG diagrams (`html-embed`), synced via **iCloud Drive ↔ Google Drive Mirror**.

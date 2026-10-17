@@ -14,6 +14,10 @@
 
 **MacBook, iPad (Apple Pencil), Windows ve Android** üzerinde Bilgisayar Mühendisliği eğitimi için kurulan uçtan uca otomatik akademik pipeline:
 
+<p align="center">
+  <img src="assets/campus-pipeline.jpeg" alt="Campus Pipeline Mimari İnfografiği" width="100%">
+</p>
+
 - **`University/`** — Blackboard üzerindeki ders föyleri, slaytlar ve ödevlerin **[Blackboard Sync](https://github.com/UmutYLCN/blackboard-sync)** ile otomatik olarak **Google Drive (5 TB Çevrimdışı Mirror)** üzerine indirilmesi.
 - **`Notes/`** — AI ders notu şablonları, özel CSS kartları, formül tabloları (`Formula Sheet`) ve interaktif inline SVG diyagramlarıyla (`html-embed`) güçlendirilmiş **Obsidian** bilgi kasası (**iCloud Drive ↔ Google Drive Otomatik Aynalama**).
 - **`Goodnotes/`** — iPad ve Apple Pencil ile alınan el yazısı ders notlarının ve soru çözümlerinin otomatik olarak PDF formatında **Google Drive**'a yedeklenmesi.
