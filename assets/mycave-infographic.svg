@@ -32,7 +32,7 @@
 
   <!-- Top Umbrella Header: MyCave -->
   <rect x="280" y="20" width="540" height="64" rx="14" fill="url(#caveGrad)" stroke="#b197fc" stroke-width="1.8"/>
-  <text x="550" y="48" text-anchor="middle" fill="#f0f6fc" font-size="20" font-weight="800" letter-spacing="0.5">🦇 MY CAVE — PERSONAL OS</text>
+  <text x="550" y="48" text-anchor="middle" fill="#f0f6fc" font-size="20" font-weight="800" letter-spacing="0.5">MY CAVE — PERSONAL OS</text>
   <text x="550" y="70" text-anchor="middle" fill="#8b949e" font-size="12" font-weight="500">Single-Writer (MacBook) • Multi-Reader (iPad, Windows, Android)</text>
 
   <!-- Umbrella Branch Lines -->
